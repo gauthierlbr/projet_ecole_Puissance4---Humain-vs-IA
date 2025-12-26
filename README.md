@@ -4,7 +4,6 @@ Projet personnel en **Python** : un jeu de **Puissance 4** avec une **interface 
 
 Ce projet a été réalisé dans un objectif d’apprentissage (algorithmique, IA classique et interface graphique).
 
----
 
 ## Fonctionnalités
 
@@ -19,7 +18,6 @@ Ce projet a été réalisé dans un objectif d’apprentissage (algorithmique, I
 - Bouton *Nouvelle partie*
 - Bouton *Quitter*
 
----
 
 ## Aperçu du jeu
 
@@ -29,7 +27,6 @@ Ce projet a été réalisé dans un objectif d’apprentissage (algorithmique, I
 ### Partie en cours
 ![Partie en cours](Jeu_avance.png)
 
----
 
 ## Lancer le jeu
 
