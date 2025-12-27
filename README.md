@@ -34,6 +34,3 @@ Ce projet a été réalisé dans un objectif d’apprentissage (algorithmique, I
 - Python 3.9+
 - Tkinter (généralement inclus avec Python)
 
-### Exécution
-```bash
-python Puissance4_ui.py
