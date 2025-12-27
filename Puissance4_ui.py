@@ -184,7 +184,7 @@ class Puissance4UI:
         if self.check_end():
             return
 
-        self.info.set("Je réfléchis…")
+        self.info.set("L'IA reflechit")
         self.root.after(120, self.ia_play)
 
     def ia_play(self):
